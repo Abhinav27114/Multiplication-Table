@@ -8,5 +8,4 @@ class MultiplyTable():
 
 val=int(input("Enter the value for the table :"))
 print("|  Multiplication Table  |")
-
 MultiplyTable.table(val)
