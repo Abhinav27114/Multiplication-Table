@@ -7,6 +7,6 @@ class MultiplyTable():
                 print("%d x %d = %d"%(i,j,i*j))
 
 val=int(input("Enter the value for the table :"))
-print("|  Multiplication Table  |")
+print(" Multiplication Table ")
 
 MultiplyTable.table(val)
