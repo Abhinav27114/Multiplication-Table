@@ -1,5 +1,5 @@
 class MultiplyTable():
-    description="Generates Multiplication table"
+    description=" Generates Multiplication table "
     def table(n):
         for i in range(2,n+1): # For every number between 2 and n
             print("\nMultiplication table for %d\n"%i)
